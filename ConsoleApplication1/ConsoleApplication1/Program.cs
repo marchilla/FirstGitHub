@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             //Change not visible
             //Local change
             //Change in the new branch
+            //Second change in the new branch
         }
     }
 }
